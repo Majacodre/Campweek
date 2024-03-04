@@ -1,4 +1,4 @@
-"year","state","state_po","state_fips","state_cen","state_ic","office","candidate","party_detailed","writein","candidatevotes","totalvotes","version","notes","party_simplified"
+    "year","state","state_po","state_fips","state_cen","state_ic","office","candidate","party_detailed","writein","candidatevotes","totalvotes","version","notes","party_simplified"
 1976,"ALABAMA","AL",1,63,41,"US PRESIDENT","CARTER, JIMMY","DEMOCRAT",FALSE,659170,1182850,"20210113",NA,"DEMOCRAT"
 1976,"ALABAMA","AL",1,63,41,"US PRESIDENT","FORD, GERALD","REPUBLICAN",FALSE,504070,1182850,"20210113",NA,"REPUBLICAN"
 1976,"ALABAMA","AL",1,63,41,"US PRESIDENT","MADDOX, LESTER","AMERICAN INDEPENDENT PARTY",FALSE,9198,1182850,"20210113",NA,"OTHER"
